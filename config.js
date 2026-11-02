@@ -15,8 +15,8 @@
 window.MJO_CONFIG = {
   APP_NAME: 'Sistem Informasi MJO',
 
-  SUPABASE_URL: '',        // contoh: 'https://abcdxyz.supabase.co'
-  SUPABASE_ANON_KEY: '',   // anon public key dari Supabase
+  SUPABASE_URL: 'https://glvsrwspwqwhipwfkhkw.supabase.co',        // contoh: 'https://abcdxyz.supabase.co'
+  SUPABASE_ANON_KEY: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImdsdnNyd3Nwd3F3aGlwd2ZraGt3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTM1OTAyODMsImV4cCI6MjEwOTE2NjI4M30.hiNgb9jS-0RzoBfmDmFdbZxYJ4GQzLqCna3QJ1YY4OE',   // anon public key dari Supabase
 
   TIMEZONE_OFFSET_HOURS: 7,   // WIB = UTC+7
   SYNC_INTERVAL_MS: 20000     // interval penarikan data terbaru (mode database bersama)
